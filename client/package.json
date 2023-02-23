@@ -1,7 +1,7 @@
 {
-  "name": "JATE",
+  "name": "text-editor",
   "engines": {
-    "node": "16.17.1"
+    "node": "16.17.0"
   },
   "scripts": {
     "dev": "webpack-dev-server",

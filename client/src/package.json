@@ -1,9 +1,9 @@
 {
-  "name": "JATE",
+  "name": "text-editor",
   "version": "1.0.0",
   "description": "",
   "engines": {
-    "node": "16.17.1"
+    "node": "16.17.0"
   },
   "main": "server.js",
   "scripts": {
